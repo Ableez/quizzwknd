@@ -25,7 +25,7 @@ To run this app on your local machine, you will need to have Node.js installed. 
 
 Clone the repository
 ```Terminal
-git clone //
+git clone [//](https://github.com/Ableez/quizzwknd.git)
 ```
 Install the necessary dependencies
 ```Terminal
